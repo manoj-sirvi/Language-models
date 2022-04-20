@@ -16,3 +16,4 @@
 
 ` you can put model path manually in the file in line where
            model.load_state_dict()
+Models can be downloaded from drive link provided in the report
